@@ -25,11 +25,11 @@ module.exports = {
   errorLog: "", 
   nodes: [
       {
-      name: "GlaceYT",
-      password: "glace",
-      host: "de-01.strixnodes.com",
-      port: 2010,
-      secure: false
+      name: "Satwat",
+      password: "SATWAT@2008",
+      host: "lavalink-server-1-qw26.onrender.com",
+      port: 443,
+      secure: true
     }
   ]
 }
